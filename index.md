@@ -1,7 +1,3 @@
----
-title:Zhiyuan Hu
----
-
 ## Bio
 
 I am an Oxford CSC-NDM Prize student with [Chris Holmes](http://www.stats.ox.ac.uk/~cholmes/), [Christopher Yau](http://www.well.ox.ac.uk/yau) 
