@@ -1,15 +1,8 @@
 ---
-name: Zhiyuan Hu
-bib_last: 'Hu'
-bib_first: 'Z.'
-bib_name: zhiyuan
-photo: /img/hu.jpg
-github: zhiyuanhu
-twitter: juanjuan_hu
-tagline: Single-Cell Analysis, Ovarian Cancer, Genomics
+title:Zhiyuan Hu
 ---
 
-# Zhiyuan Hu
+## Bio
 
 I am an Oxford CSC-NDM Prize student with [Chris Holmes](http://www.stats.ox.ac.uk/~cholmes/), [Christopher Yau](http://www.well.ox.ac.uk/yau) 
 and [Ahmed Ahmed](https://www.wrh.ox.ac.uk/team/ahmed-ahmed) at the [Wellcome Trust Centre for Human Genetics](http://www.well.ox.ac.uk/home) 
