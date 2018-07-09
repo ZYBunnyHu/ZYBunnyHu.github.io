@@ -1,6 +1,6 @@
 ## Bio
 
-I am an Oxford CSC-NDM Prize student with [Chris Holmes](http://www.stats.ox.ac.uk/~cholmes/), [Christopher Yau](http://www.well.ox.ac.uk/yau) 
+I am an Oxford CSC-NDM Prize student with [Chris Holmes](http://www.stats.ox.ac.uk/~cholmes/), [Christopher Yau](http://cwcyau.github.io)  
 and [Ahmed Ahmed](https://www.wrh.ox.ac.uk/team/ahmed-ahmed) at the [Wellcome Trust Centre for Human Genetics](http://www.well.ox.ac.uk/home) 
 and at the [MRC Weatherall Institute of Molecular Medicine](https://www.imm.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/).
 
@@ -12,4 +12,4 @@ Hu, Z., Yau, C. & Ahmed, A. A. **A pan-cancer genome-wide analysis reveals tumou
 
 ## R package
 
-Masonmd: making sense of nonsense-mediated decay. [link](https://github.com/zhiyhu/masonmd). 
+Masonmd: making sense of nonsense-mediated decay. ([Link](https://github.com/zhiyhu/masonmd))
