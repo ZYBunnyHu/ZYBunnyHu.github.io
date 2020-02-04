@@ -1,11 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
 locale                   : "en-US"
-title                    : "Dr. Zhiyuan Hu""
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Dr. Zhiyuan Hu"
-description              : &description "Postdoctoral researcher at University of Oxford"
-url                      : https://zhiyhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhiyhu/zhiyhu.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -72,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Zhiyuan Hu"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at University of Oxford"
-  location         : "Oxford, UK"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=TORNxtcAAAAJ&hl=en"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Zhiyuan_Hu5"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -88,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhiyhu"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-1688-6032"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zhi_yuan_hu"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
