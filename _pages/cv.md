@@ -9,38 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+[My CV](http://zhiyhu.github.io/files/Zhiyuan_CV.pdf)
+
 Education
 ======
 * B.S. in Biological Sciences, Peking University, 2015
-* Ph.D in 
+* Ph.D in Clinical Medicine, University of Oxford, 2020
+  ** Supervisors: Professor Christopher Yau, Professor Ahmed Ahmed
 
 Work experience
 ======
-
+* Postdoctoral researcher assistant, 2020 Jan - Present
+  ** Supervisor: Professor Ahmed Ahmed
+  ** MRC Weatheral Institute of Molecular Medicine/Nuffield Department of Women's and Reproductive Health
   
 Skills
 ======
 * Web lab
 * Computation
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
