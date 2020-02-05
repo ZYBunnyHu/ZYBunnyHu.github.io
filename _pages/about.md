@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 Research interest: Cancer functional genomics, single cell, statistics
-
-Bio
-======
 
 Zhiyuan is currently a postdoc in Professor Ahmed's group. 
 
