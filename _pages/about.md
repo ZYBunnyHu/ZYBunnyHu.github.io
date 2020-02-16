@@ -12,42 +12,35 @@ Zhiyuan is currently a postdoc in Professor Ahmed's group.
 
 After learning biological science for four years in Peking University, the top university in China, she graduated with the first ranking from the [Honors Program](http://web.bio.pku.edu.cn/UHPB/). During her DPhil at the Wellcome Centre for Human Genetics and the MRC Weatherall Institute of Molecular Medicine, University of Oxford, she was co-supervised by [Professor Ahmed Ahmed](https://www.imm.ox.ac.uk/people/ahmed-ahmed) and [Professor Christopher Yau](https://cwcyau.github.io). She studied nonsense-mediated decay in the pan-cancer genomes and single-cell transcriptomics of the origin of ovarian cancer.
 
-**Research interest**: Cancer functional genomics, single cell, statistics
+**Research interest**: Cancer genomics, single cell, bioinformatics
 
 
 
 Publications
 ======
 
-__Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, M. Morotti, L. Santana Gonzalez, S. El-Sahhar, M. KaramiNejadRanjbar, G. Mallett, T. Shi, K. Masuda, Y. Zheng, K. Chong, S. Damato, S. Dhar, R. Garruto Campanile, H. Soleymani majd, V. Cerundolo, T. Sauka-Spengler, C. Yau\*, A. A. Ahmed\*. The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells. *Cancer Cell* (In press) (\* co-corresponding authors)
+__Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, ..., T. Sauka-Spengler, C. Yau\*, A. A. Ahmed\*. The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells. *Cancer Cell* **37** (2), p226-242.E7 (2020).
 
+* [pdf](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)
 * [R code](https://github.com/zhiyhu/scFT-paper)
 
 
 M. P. Menden, D. Wang, M. J. Mason, B. Szalai, K. C. Bulusu, Y. Guan, T. Yu, J. Kang, M. Jeon, R. Wolfinger, T. Nguyen, M. Zaslavskiy, __AstraZeneca-Sanger Drug Combination DREAM Consortium__, I. Sock Jang, Z. Ghazoui, M. Eren Ahsen, R. Vogel, E. Chaibub Neto, T. Norman, E. K. Y. Tang, M.
 J. Garnett, G. Y. Di Veroli, S. Fawell, G. Stolovitzky, J. Guinney\*, J. R. Dry\* J. Saez-Rodriguez\*. Community assessment to advance computational prediction of cancer drug combinations in a phar- macogenomic screen. *Nature Communications* **10**, 2674 (2019). 
 
-* [Paper link](https://www.nature.com/articles/s41467-019-09799-2)
+* [pdf](https://www.nature.com/articles/s41467-019-09799-2)
 
 
 T. Motohara, K. Masuda, M. Morotti, Y. Zheng, S. El-Sahhar, K. Chong, N. Wietek, A. Alsaadi, M. Karaminejadranjbar, __Z. Hu__, M. Artibani, L. Santana Gonzalez, H. Katabuchi, H. Saya and A. Ahmed. An evolving story of the metastatic voyage of ovarian cancer cells: cellular and molecular orchestration of the adipose-rich metastatic microenvironment. *Oncogene*, **38**, 2885−2898 (2019).
 
-* [Paper link](https://www.nature.com/articles/s41388-018-0637-x)
+* [pdf](https://www.nature.com/articles/s41388-018-0637-x)
 
 
 __Z. Hu__, C. Yau\* and A. Ahmed\*. A pan-cancer genome-wide analysis reveals tumour dependencies by induction of non-sense mediated decay. *Nature Communications* **8**, 15943 (2017). doi: 10.1038/ncomms15943. 
 
-* [Paper link](https://www.nature.com/articles/ncomms15943)
+* [pdf](https://www.nature.com/articles/ncomms15943)
 * [R code](https://github.com/zhiyhu/NMD-paper)
 * [R package masonmd](https://github.com/zhiyhu/masonmd)
-
-
-
-Preprint
-======
-__Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, M. Morotti, L. Santana Gonzalez, S. El-Sahhar, M. KaramiNejadRanjbar, G. Mallett, T. Shi, K. Masuda, Y. Zheng, K. Chong, S. Damato, S. Dhar, R. Garruto Campanile, H. Soleymani majd, V. Cerundolo, T. Sauka-Spengler, C. Yau\*, A. A. Ahmed\*. The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells. *bioRxiv*. January 2019: 672626. 
-
-* [Paper link](http://biorxiv.org/content/early/2019/06/17/672626)
 
 
 
