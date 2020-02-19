@@ -3,7 +3,7 @@ title: "Deep single-cell RNA-seq of the putative cell of origin revealed a novel
 collection: talks
 type: "Poster"
 permalink: /talks/11/07/2019-poster-5
-venue: "AACR Annual Meeting"
+venue: "AACR Annual Meeting 2019"
 date: 11/07/2019
 location: "Atlanta, US"
 ---

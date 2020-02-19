@@ -24,7 +24,7 @@ NIHR Oxford Biomedical Research Centre Small Grants in Health Sciences (£24,395
 AACR-Margaret Foti Scholar-in-Training Award, AACR ($2,000), 2019  
 Travel and Research Fund, St Cross College, University of Oxford (£500), 2019  
 Poster Prize, CRUK Oxford Centre 2018 Symposium, 2018  
-NDM Graduate Student Prize, University of Oxford, 2017 
+[NDM Graduate Student Prize](https://www.ndm.ox.ac.uk/zhiyuan-hu), University of Oxford, 2017  
 Shen Tong Outstanding Undergraduate Award, Peking University (CNY 20000), 2015  
 China National Scholarship (CNY 8000), 2014  
 Li & Fung Scholarship, Victor and William Fung Foundation, 2014  
