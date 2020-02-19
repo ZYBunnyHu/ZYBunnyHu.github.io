@@ -19,17 +19,17 @@ Education
 
 Awards & Grants
 ======
-WHG Public Engagement Seed Award, University of Oxford (£1,000), 2019 \
-NIHR Oxford Biomedical Research Centre Small Grants in Health Sciences (£24,395), 2019 \
-AACR-Margaret Foti Scholar-in-Training Award, AACR ($2,000), 2019 \
-Travel and Research Fund, St Cross College, University of Oxford (£500), 2019 \
-Poster Prize, CRUK Oxford Centre 2018 Symposium, 2018 \
-NDM Graduate Student Prize, University of Oxford, 2017 \
-Shen Tong Outstanding Undergraduate Award, Peking University (CNY 20000), 2015 \
-China National Scholarship (CNY 8000), 2014 \
-Li & Fung Scholarship, Victor and William Fung Foundation, 2014 \
-Arawana Scholarship, Yihai Kerry, Wilmar China (CNY 12000), 2013 \
-Robin Li Scholarship, Robin Li Foundation (CNY 5000), 2012 \
+WHG Public Engagement Seed Award, University of Oxford (£1,000), 2019  
+NIHR Oxford Biomedical Research Centre Small Grants in Health Sciences (£24,395), 2019  
+AACR-Margaret Foti Scholar-in-Training Award, AACR ($2,000), 2019  
+Travel and Research Fund, St Cross College, University of Oxford (£500), 2019  
+Poster Prize, CRUK Oxford Centre 2018 Symposium, 2018 
+NDM Graduate Student Prize, University of Oxford, 2017 
+Shen Tong Outstanding Undergraduate Award, Peking University (CNY 20000), 2015  
+China National Scholarship (CNY 8000), 2014  
+Li & Fung Scholarship, Victor and William Fung Foundation, 2014  
+Arawana Scholarship, Yihai Kerry, Wilmar China (CNY 12000), 2013  
+Robin Li Scholarship, Robin Li Foundation (CNY 5000), 2012  
 
 
 Skills
@@ -51,19 +51,19 @@ Skills
 
 Supervision experience
 ======
-Supervising summer intern, 2017 \
-Supervising summer intern, 2019 \
-Supervising prepostdoctoral research assistant, 2020
+Supervising summer intern, 2017  
+Supervising summer intern, 2019  
+Supervising prepostdoctoral research assistant, 2020  
 
 
 Undergrad research experience
 ======
-**Summer intern**, Nuffield Department of Medicine, University of Oxford, 2014 \
+**Summer intern**, Nuffield Department of Medicine, University of Oxford, 2014  
 Analysis of the metformin effect on cancer single-cell transcriptome *Advisors: Dr. Chris Yau and Dr. Quin Wills*
 
-**Research assistant**, Center for Quantitative Biology, Peking University, 2014-2015 \
+**Research assistant**, Center for Quantitative Biology, Peking University, 2014-2015  
 Phylogenetic analysis of horizontal gene transfer in microbial microevolution. *Advisor: Prof Huaiqiu Zhu*
 
-**Research assistant**, Center for Quantitative Biology, Peking University, 2013-2014 \
+**Research assistant**, Center for Quantitative Biology, Peking University, 2013-2014  
 Analysis of non-coding regions in horizontal gene transfer. *Advisor: Prof Huaiqiu Zhu*
 
