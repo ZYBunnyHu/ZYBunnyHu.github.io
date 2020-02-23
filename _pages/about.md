@@ -24,7 +24,7 @@ __Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, ..., T. Sauka-Spengler, C. Yau\*,
 
 
 M. P. Menden, D. Wang, M. J. Mason, B. Szalai, K. C. Bulusu, Y. Guan, T. Yu, J. Kang, M. Jeon, R. Wolfinger, T. Nguyen, M. Zaslavskiy, __AstraZeneca-Sanger Drug Combination DREAM Consortium__, I. Sock Jang, Z. Ghazoui, M. Eren Ahsen, R. Vogel, E. Chaibub Neto, T. Norman, E. K. Y. Tang, M.
-J. Garnett, G. Y. Di Veroli, S. Fawell, G. Stolovitzky, J. Guinney\*, J. R. Dry\* J. Saez-Rodriguez\*. Community assessment to advance computational prediction of cancer drug combinations in a phar- macogenomic screen. *Nature Communications* **10**, 2674 (2019). [`pdf`](https://www.nature.com/articles/s41467-019-09799-2)
+J. Garnett, G. Y. Di Veroli, S. Fawell, G. Stolovitzky, J. Guinney\*, J. R. Dry\* J. Saez-Rodriguez\*. Community assessment to advance computational prediction of cancer drug combinations in a pharmacogenomic screen. *Nature Communications* **10**, 2674 (2019). [`pdf`](https://www.nature.com/articles/s41467-019-09799-2)
 
 
 T. Motohara, K. Masuda, M. Morotti, Y. Zheng, S. El-Sahhar, K. Chong, N. Wietek, A. Alsaadi, M. Karaminejadranjbar, __Z. Hu__, M. Artibani, L. Santana Gonzalez, H. Katabuchi, H. Saya and A. Ahmed. An evolving story of the metastatic voyage of ovarian cancer cells: cellular and molecular orchestration of the adipose-rich metastatic microenvironment. *Oncogene*, **38**, 2885−2898 (2019). [`pdf`](https://www.nature.com/articles/s41388-018-0637-x)
