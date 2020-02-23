@@ -19,7 +19,7 @@ Education
 
 Awards & Grants
 ======
-WHG Public Engagement Seed Award, University of Oxford (£1,000), 2019  
+WHG Public Engagement Seed Award, University of Oxford (£1,500), 2019  
 NIHR Oxford Biomedical Research Centre Small Grants in Health Sciences (£24,395), 2019  
 AACR-Margaret Foti Scholar-in-Training Award, AACR ($2,000), 2019  
 Travel and Research Fund, St Cross College, University of Oxford (£500), 2019  
@@ -53,7 +53,7 @@ Supervision experience
 ======
 Supervising summer intern, 2017  
 Supervising summer intern, 2019  
-Supervising prepostdoctoral research assistant, 2020  
+Supervising predoctoral research assistant, 2020  
 
 
 Undergrad research experience
