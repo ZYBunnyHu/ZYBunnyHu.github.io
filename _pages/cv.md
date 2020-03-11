@@ -42,7 +42,7 @@ Skills
 
 **Data analysis skills**
 * Proficient in: R (daily usage), Shell (regular usage), Git (daily usage), analysis of RNA/DNA-seq data and single-cell RNA-seq data
-* Familiar with: Python (improving), C (used extensively during undergrad), MATLAB (used for a course project), analysis of DNA methylation sequencing data and third-generation sequence data
+* Familiar with: Python (Snakemake incl.), C (used extensively during undergrad), MATLAB (used for a course project), analysis of DNA methylation sequencing data
 * Familiar with statistical learning and Bayesian inference.
 
 **Other relevent**
