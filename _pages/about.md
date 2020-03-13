@@ -14,7 +14,7 @@ After learning biological science for four years in Peking University, the top u
 
 **Research interest**: cancer genomics, single cell, bioinformatics
 
-Also very interested in: development, multi-omics and spatial transcriptomics
+Also very interested in: immunology, multi-omics and spatial transcriptomics
 
 
 Publications
