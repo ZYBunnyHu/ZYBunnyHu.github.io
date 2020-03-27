@@ -24,6 +24,13 @@ __Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, ..., T. Sauka-Spengler, C. Yau\*,
 [`pdf`](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)  [`R code`](https://github.com/zhiyhu/scFT-paper)
 
 
+G. Prota, U. Gileadi, M. Rei, A.V. Lechuga-Vieco, J.-L. Chen, S. Galiani, M. Bedard, V. W. C. Lau, L. F. Fanchi, M. Artibani, Z. Hu, S. Gordon, J. Rehwinkel, J. A. Enríquez, A. A. Ahmed, T. N. Schumacher and V. Cerundolo. Enhanced immunogenicity of mitochondrial-localized proteins in cancer cells. *Cancer Immunology Research* (2020).
+[`pdf`](https://cancerimmunolres.aacrjournals.org/content/early/2020/03/19/2326-6066.CIR-19-0467.full-text.pdf)
+
+
+R. Ma\*, K. P. Capobianco, N. C. T. Buchanan, __Z. Hu__, J. M. Oakman\*. Etiologic and treatment conceptualizations of disordered eating symptoms among mainland Chinese therapists. *International Journal of Eating Disorders* **53** (3), 391-403 (2020). [`pdf`](https://www.researchgate.net/profile/Nicole_Buchanan/publication/337486748_Etiologic_and_treatment_conceptualizations_of_disordered_eating_symptoms_among_mainland_Chinese_therapists/links/5ddc1d2e299bf10c5a333d2e/Etiologic-and-treatment-conceptualizations-of-disordered-eating-symptoms-among-mainland-Chinese-therapists.pdf)
+
+
 M. P. Menden, D. Wang, M. J. Mason, B. Szalai, K. C. Bulusu, Y. Guan, T. Yu, J. Kang, M. Jeon, R. Wolfinger, T. Nguyen, M. Zaslavskiy, __AstraZeneca-Sanger Drug Combination DREAM Consortium__, I. Sock Jang, Z. Ghazoui, M. Eren Ahsen, R. Vogel, E. Chaibub Neto, T. Norman, E. K. Y. Tang, M.
 J. Garnett, G. Y. Di Veroli, S. Fawell, G. Stolovitzky, J. Guinney\*, J. R. Dry\* J. Saez-Rodriguez\*. Community assessment to advance computational prediction of cancer drug combinations in a pharmacogenomic screen. *Nature Communications* **10**, 2674 (2019). [`pdf`](https://www.nature.com/articles/s41467-019-09799-2)
 
