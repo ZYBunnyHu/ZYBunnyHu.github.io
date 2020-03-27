@@ -24,7 +24,7 @@ __Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, ..., T. Sauka-Spengler, C. Yau\*,
 [`pdf`](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)  [`R code`](https://github.com/zhiyhu/scFT-paper)
 
 
-G. Prota*, U. Gileadi, M. Rei, A.V. Lechuga-Vieco, J.-L. Chen, S. Galiani, M. Bedard, V. W. C. Lau, L. F. Fanchi, M. Artibani, __Z. Hu__, S. Gordon, J. Rehwinkel, J. A. Enríquez, A. A. Ahmed, T. N. Schumacher and V. Cerundolo. Enhanced immunogenicity of mitochondrial-localized proteins in cancer cells. *Cancer Immunology Research* (2020).
+G. Prota\*, U. Gileadi, M. Rei, A.V. Lechuga-Vieco, J.-L. Chen, S. Galiani, M. Bedard, V. W. C. Lau, L. F. Fanchi, M. Artibani, __Z. Hu__, S. Gordon, J. Rehwinkel, J. A. Enríquez, A. A. Ahmed, T. N. Schumacher and V. Cerundolo. Enhanced immunogenicity of mitochondrial-localized proteins in cancer cells. *Cancer Immunology Research* (2020).
 [`pdf`](https://cancerimmunolres.aacrjournals.org/content/early/2020/03/19/2326-6066.CIR-19-0467.full-text.pdf)
 
 
