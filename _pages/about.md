@@ -17,6 +17,16 @@ After learning biological science for four years in Peking University, the top u
 Also very interested in: immunology, multi-omics and spatial transcriptomics
 
 
+Selected publications
+======
+
+__Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, ..., T. Sauka-Spengler, C. Yau\*, A. A. Ahmed\*. The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells. *Cancer Cell* **37** (2), p226-242.E7 (2020).
+[`pdf`](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)  [`R code`](https://github.com/zhiyhu/scFT-paper)
+
+
+__Z. Hu__, C. Yau\* and A. Ahmed\*. A pan-cancer genome-wide analysis reveals tumour dependencies by induction of non-sense mediated decay. *Nature Communications* **8**, 15943 (2017). doi: 10.1038/ncomms15943. [`pdf`](https://www.nature.com/articles/ncomms15943)  [`R code`](https://github.com/zhiyhu/NMD-paper)  [`R package masonmd`](https://github.com/zhiyhu/masonmd)
+
+
 Publications
 ======
 
