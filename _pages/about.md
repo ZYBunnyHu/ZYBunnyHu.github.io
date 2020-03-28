@@ -25,7 +25,7 @@ __Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, ..., T. Sauka-Spengler, C. Yau\*,
 
 
 G. Prota\*, U. Gileadi, M. Rei, A.V. Lechuga-Vieco, J.-L. Chen, S. Galiani, M. Bedard, V. W. C. Lau, L. F. Fanchi, M. Artibani, __Z. Hu__, S. Gordon, J. Rehwinkel, J. A. Enríquez, A. A. Ahmed, T. N. Schumacher and V. Cerundolo. Enhanced immunogenicity of mitochondrial-localized proteins in cancer cells. *Cancer Immunology Research* (2020).
-[`pdf`](https://cancerimmunolres.aacrjournals.org/content/early/2020/03/19/2326-6066.CIR-19-0467.full-text.pdf)
+[`pdf`](https://cancerimmunolres.aacrjournals.org/content/early/2020/03/19/2326-6066.CIR-19-0467.full-text.pdf) [`R code for pancan analysis`](https://github.com/zhiyhu/mito-mut-pancan)
 
 
 R. Ma\*, K. P. Capobianco, N. C. T. Buchanan, __Z. Hu__, J. M. Oakman\*. Etiologic and treatment conceptualizations of disordered eating symptoms among mainland Chinese therapists. *International Journal of Eating Disorders* **53** (3), 391-403 (2020). [`pdf`](https://www.researchgate.net/profile/Nicole_Buchanan/publication/337486748_Etiologic_and_treatment_conceptualizations_of_disordered_eating_symptoms_among_mainland_Chinese_therapists/links/5ddc1d2e299bf10c5a333d2e/Etiologic-and-treatment-conceptualizations-of-disordered-eating-symptoms-among-mainland-Chinese-therapists.pdf)
