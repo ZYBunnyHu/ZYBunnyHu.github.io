@@ -41,8 +41,8 @@ Skills
 * Molecular techniques: DNA/RNA extraction, RT, PCR, qPCR, electrophoresis, Sanger sequence, NanoString assay and etc.
 
 **Data analysis skills**
-* Proficient in: R (daily usage), Shell (regular usage), Git (daily usage), analysis of RNA/DNA-seq data and single-cell RNA-seq data
-* Familiar with: Python (Snakemake incl.), C (used extensively during undergrad), MATLAB (used for a course project), analysis of DNA methylation sequencing data
+* Proficient in: R (daily usage), Shell (regular usage), Git (daily usage), Python (Snakemake incl., regular usage), analysis of RNA/DNA-seq data, single-cell RNA-seq data and whole-genome methylation data
+* Familiar with: C (used extensively during undergrad), MATLAB (used for a undergrad course project)
 * Familiar with statistical learning and Bayesian inference.
 
 **Other relevent**
@@ -66,4 +66,21 @@ Phylogenetic analysis of horizontal gene transfer in microbial microevolution. *
 
 **Research assistant**, Center for Quantitative Biology, Peking University, 2013-2014  
 Analysis of non-coding regions in horizontal gene transfer. *Advisor: Prof Huaiqiu Zhu*
+
+
+Undergrad background in math/programming/compbio
+======
+Advanced Mathematcis (B)(1), 96/100
+Advanced Mathematcis (B)(2), 98/100
+Linear Algebra (B), 93/100
+Probability Theory and Statistics (B), 90/100
+Data Structure and Algorithm (B), 96/100
+Mathematical Modeling in the Life Sciences, 90/100
+Applied Stochastic Models, 99/100
+Methods in Bioinfomatics, 94/100
+Mathematical Biophysics, 100/100
+
+*(B): cources for departments of science (non-math) major.*
+
+
 
