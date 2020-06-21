@@ -70,16 +70,16 @@ Analysis of non-coding regions in horizontal gene transfer. *Advisor: Prof Huaiq
 
 Undergrad background in math/programming/compbio
 ======
-Advanced Mathematcis (B)(1), 96/100
-Advanced Mathematcis (B)(2), 98/100
-Linear Algebra (B), 93/100
-Probability Theory and Statistics (B), 90/100
-Data Structure and Algorithm (B), 96/100
-Mathematical Modeling in the Life Sciences, 90/100
-Applied Stochastic Models, 99/100
-Methods in Bioinfomatics, 94/100
-Mathematical Biophysics, 100/100
-
+Advanced Mathematcis (B)(1), 96/100  
+Advanced Mathematcis (B)(2), 98/100  
+Linear Algebra (B), 93/100  
+Probability Theory and Statistics (B), 90/100  
+Data Structure and Algorithm (B), 96/100  
+Mathematical Modeling in the Life Sciences, 90/100  
+Applied Stochastic Models, 99/100  
+Methods in Bioinfomatics, 94/100  
+Mathematical Biophysics, 100/100  
+  
 *(B): cources for departments of science (non-math) major.*
 
 
