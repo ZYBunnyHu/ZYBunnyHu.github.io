@@ -80,5 +80,5 @@ Mathematical Modeling in the Life Sciences, 90/100
 Methods in Bioinfomatics, 94/100  
 Mathematical Biophysics, 100/100  
   
-*(B) type cources are for students majoring in science.*
+*(B) type courses are for students majoring in science.*
 
