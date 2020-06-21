@@ -21,7 +21,7 @@ Selected publications
 ======
 
 __Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, ..., T. Sauka-Spengler, C. Yau\*, A. A. Ahmed\*. The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells. *Cancer Cell* **37** (2), p226-242.E7 (2020).
-[`pdf`](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)  [`R code`](https://github.com/zhiyhu/scFT-paper)
+[`pdf`](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)  [`GitHub`](https://zhiyhu.github.io/scFT-paper/)
 
 
 __Z. Hu__, C. Yau\* and A. Ahmed\*. A pan-cancer genome-wide analysis reveals tumour dependencies by induction of non-sense mediated decay. *Nature Communications* **8**, 15943 (2017). doi: 10.1038/ncomms15943. [`pdf`](https://www.nature.com/articles/ncomms15943)  [`R code`](https://github.com/zhiyhu/NMD-paper)  [`R package masonmd`](https://github.com/zhiyhu/masonmd)
@@ -31,7 +31,7 @@ Publications
 ======
 
 __Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, ..., T. Sauka-Spengler, C. Yau\*, A. A. Ahmed\*. The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells. *Cancer Cell* **37** (2), p226-242.E7 (2020).
-[`pdf`](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)  [`R code`](https://github.com/zhiyhu/scFT-paper)
+[`pdf`](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)  [`GitHub`](https://zhiyhu.github.io/scFT-paper/)
 
 
 G. Prota\*, U. Gileadi, M. Rei, A.V. Lechuga-Vieco, J.-L. Chen, S. Galiani, M. Bedard, V. W. C. Lau, L. F. Fanchi, M. Artibani, __Z. Hu__, S. Gordon, J. Rehwinkel, J. A. Enríquez, A. A. Ahmed, T. N. Schumacher and V. Cerundolo. Enhanced immunogenicity of mitochondrial-localized proteins in cancer cells. *Cancer Immunology Research* (2020).
