@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Zhiyuan is currently a postdoc in [Professor Ahmed's group](https://www.wrh.ox.ac.uk/research/ovarian-cancer) at the [University of Oxford](http://www.ox.ac.uk). 
+Zhiyuan is currently a postdoc at the [MRC Weatherall Institute of Molecular Medicine](https://www.imm.ox.ac.uk), [University of Oxford](http://www.ox.ac.uk). 
 
-After learning biological science for four years in Peking University, the top university in China, she graduated with the first ranking from the [Honors Program](http://web.bio.pku.edu.cn/UHPB/). During her DPhil at the Wellcome Centre for Human Genetics and the MRC Weatherall Institute of Molecular Medicine, University of Oxford, she was co-supervised by [Professor Ahmed Ahmed](https://www.imm.ox.ac.uk/people/ahmed-ahmed) and [Professor Christopher Yau](https://cwcyau.github.io). She studied nonsense-mediated decay in the pan-cancer genomes and single-cell transcriptomics of the origin of ovarian cancer.
+After learning biological science for four years in Peking University, the top university in China, she graduated with the first ranking from the [Honors Program](http://web.bio.pku.edu.cn/UHPB/). During her DPhil at the Wellcome Centre for Human Genetics and the MRC Weatherall Institute of Molecular Medicine, University of Oxford, she was co-supervised by [Professor Ahmed Ahmed](https://www.imm.ox.ac.uk/people/ahmed-ahmed) and [Professor Christopher Yau](https://cwcyau.github.io). She studied nonsense-mediated decay in the pan-cancer genomes and single-cell transcriptomics of the origin of ovarian cancer. After her viva in Feb 2020, she stayed in the Ovarian Cancer Cell Laboratory to complete her projects for another ten months. From early 2021, she will start to work on embryonic development by using single-cell sequencing and CRISPR techniques.
 
-**Research interest**: cancer genomics, single cell, bioinformatics
-
-Also very interested in: immunology, multi-omics and spatial transcriptomics
-
+**Research interest**: single cell, multi-omics, bioinformatics, development
 
 Selected publications
 ======
@@ -24,7 +21,7 @@ __Z. Hu__, M. Artibani, A. Alsaadi, N. Wietek, M. Morotti, T. Shi, Z. Zhong, L. 
 [`pdf`](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30042-8.pdf)  [`GitHub`](https://zhiyhu.github.io/scFT-paper/)
 
 
-__Z. Hu__, C. Yau\* and A. Ahmed\*. A pan-cancer genome-wide analysis reveals tumour dependencies by induction of non-sense mediated decay. *Nature Communications* **8**, 15943 (2017). doi: 10.1038/ncomms15943. [`pdf`](https://www.nature.com/articles/ncomms15943)  [`R code`](https://github.com/zhiyhu/NMD-paper)  [`R package masonmd`](https://github.com/zhiyhu/masonmd)
+__Z. Hu__, C. Yau\* and A. Ahmed\*. A pan-cancer genome-wide analysis reveals tumour dependencies by induction of nonsense-mediated decay. *Nature Communications* **8**, 15943 (2017). doi: 10.1038/ncomms15943. [`pdf`](https://www.nature.com/articles/ncomms15943)  [`R code`](https://github.com/zhiyhu/NMD-paper)  [`R package masonmd`](https://github.com/zhiyhu/masonmd)
 
 
 Publications
@@ -48,7 +45,7 @@ J. Garnett, G. Y. Di Veroli, S. Fawell, G. Stolovitzky, J. Guinney\*, J. R. Dry\
 T. Motohara, K. Masuda, M. Morotti, Y. Zheng, S. El-Sahhar, K. Chong, N. Wietek, A. Alsaadi, M. Karaminejadranjbar, __Z. Hu__, M. Artibani, L. Santana Gonzalez, H. Katabuchi, H. Saya and A. Ahmed. An evolving story of the metastatic voyage of ovarian cancer cells: cellular and molecular orchestration of the adipose-rich metastatic microenvironment. *Oncogene*, **38**, 2885−2898 (2019). [`pdf`](https://www.nature.com/articles/s41388-018-0637-x)
 
 
-__Z. Hu__, C. Yau\* and A. Ahmed\*. A pan-cancer genome-wide analysis reveals tumour dependencies by induction of non-sense mediated decay. *Nature Communications* **8**, 15943 (2017). doi: 10.1038/ncomms15943. [`pdf`](https://www.nature.com/articles/ncomms15943)  [`R code`](https://github.com/zhiyhu/NMD-paper)  [`R package masonmd`](https://github.com/zhiyhu/masonmd)
+__Z. Hu__, C. Yau\* and A. Ahmed\*. A pan-cancer genome-wide analysis reveals tumour dependencies by induction of nonsense-mediated decay. *Nature Communications* **8**, 15943 (2017). doi: 10.1038/ncomms15943. [`pdf`](https://www.nature.com/articles/ncomms15943)  [`R code`](https://github.com/zhiyhu/NMD-paper)  [`R package masonmd`](https://github.com/zhiyhu/masonmd)
 
 
 
