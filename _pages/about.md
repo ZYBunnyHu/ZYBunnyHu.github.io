@@ -34,11 +34,11 @@ Y. Liu†, __Z. Hu__†, J. Cheng, P. Siejka-Zielińska, J. Chen, M. Inoue, A. A
 
 Preprint
 ======
-__Z. Hu__, C. Yau\* and A. Ahmed\*. An interpretable meta-clustering framework for single-cell RNA-Seq data integration and evaluation. *bioRxiv* (2021). [`Paper`](https://www.biorxiv.org/content/10.1101/2021.03.29.437525v1.full)
+__Z. Hu__, C. Yau\* and A. Ahmed\*. An interpretable meta-clustering framework for single-cell RNA-Seq data integration and evaluation. *bioRxiv* (2021). [`Paper`](https://www.biorxiv.org/content/10.1101/2021.03.29.437525v1.full) [`R package CIDER`](http://zhiyhu.github.io/CIDER/)
 
 
 
-See full publication list at [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=TORNxtcAAAAJ&view_op=list_works&sortby=pubdate)
+The full publication list is available at [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=TORNxtcAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 
